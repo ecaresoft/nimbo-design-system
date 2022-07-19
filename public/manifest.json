@@ -1,0 +1,15 @@
+{
+  "name": "Nimbo Design System",
+  "short_name": "Nimbo Design System",
+  "start_url": "/design-system.nimbo-x.app/",
+  "scope": "/design-system.nimbo-x.app/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/design-system.nimbo-x.app/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}

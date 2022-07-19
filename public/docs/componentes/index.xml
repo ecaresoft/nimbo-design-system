@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Componentes on Nimbo Design System</title>
+    <link>design-system.nimbo-x.app/docs/componentes/</link>
+    <description>Recent content in Componentes on Nimbo Design System</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language><atom:link href="design-system.nimbo-x.app/docs/componentes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Botón</title>
+      <link>design-system.nimbo-x.app/docs/componentes/boton/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>design-system.nimbo-x.app/docs/componentes/boton/</guid>
+      <description>este es el contenido de la pagina uno
+CSSSee the Pen Btn by Ivan Q (@mcclone2001)on CodePen.Ember&amp;lt;button class=&amp;#34;button btn-primary&amp;#34; local-class=&amp;#34;send&amp;#34; onclick={{action ...}}&amp;gt; {{t &amp;#34;your.translation.path&amp;#34;}} &amp;lt;/button&amp;gt;  </description>
+    </item>
+    
+    <item>
+      <title>Input</title>
+      <link>design-system.nimbo-x.app/docs/componentes/input/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>design-system.nimbo-x.app/docs/componentes/input/</guid>
+      <description>CSSSee the Pen Btn by Ivan Q (@mcclone2001)on CodePen.Ember{{input  id=&amp;#34;name&amp;#34;  type=&amp;#34;text&amp;#34;  data-autoid=&amp;#34;accounts-new-name&amp;#34;  value=accountSignup.name  placeholder=(t &amp;#34;components.forms.signup-form.full-name&amp;#34;)}}  </description>
+    </item>
+    
+  </channel>
+</rss>

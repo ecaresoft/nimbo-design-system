@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Nimbo Design System</title>
+    <link>design-system.nimbo-x.app/docs/</link>
+    <description>Recent content in Docs on Nimbo Design System</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language><atom:link href="design-system.nimbo-x.app/docs/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

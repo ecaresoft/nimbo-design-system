@@ -1,0 +1,13 @@
+{{ $group := .Parent.Get 0 }}
+
+{{ $id := .Get "id" }}
+{{ $etiqueta := .Get "label"}}
+{{ $default := .Get "default" }}
+
+<input type="radio" class="toggle" name="{{ $group }}" id="{{ printf "%s-%d" $group $id }}" {{ if $default }}checked="checked"{{ end }} />
+<label for="{{ printf "%s-%d" $group $id }}">
+  {{ $etiqueta }}
+</label>
+<div class="book-tabs-content markdown-inner">
+  {{ .Inner }}
+</div>
