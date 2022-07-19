@@ -1,4 +1,4 @@
-baseURL = 'design-system.nimbo.app'
+baseURL = 'http://design-system.nimbo.app/'
 languageCode = 'es-mx'
 title = 'Nimbo Design System'
 theme = 'hugo-book'
